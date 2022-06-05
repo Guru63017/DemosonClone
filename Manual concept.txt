@@ -1,0 +1,37 @@
+1. What do you understand by software testing?
+Static testing is a white-box testing technique that directs developers to verify their code with the help of a checklist to find errors in it. Developers can start the static testing without actually finalizing the application or program. Static testing is more cost-effective than dynamic testing as it more areas than dynamic testing in a shorter time.
+
+**Whiteboxtesting:White Box Testing is software testing technique in which internal structure, design and coding of software are tested to verify flow of input-output and to improve design, usability and security. In white box testing, code is visible to testers so it is also called Clear box testing, Open box testing, Transparent box testing, Code-based testing and Glass box testing.
+
+difference between Functional Testing & Non-functional Testing
+
+Functional Testing						Non-functional Testing
+
+It verifies the operations and actions of an application.		It verifies the behavior of an application.
+It is based on requirements of customer.				It is based on expectations of customer.
+It helps to enhance the behavior of the application.			It helps to improve the performance of the application.
+Functional testing is easy to execute manually.			It is hard to execute non-functional testing manually.
+It tests what the product does.					It describes how the product does.
+Functional testing is based on the business requirement.		Non-functional testing is based on the performance requirement.
+Examples:							Examples:
+1. Unit Testing						1. Performance Testing:anticipating and solving performance issues should be an early part of software development.
+2. Smoke Testing						2. Load Testing:Load testing measures system performance as the workload increases. 
+3. Integration Testing					3. Stress Testing:stress testing is meant to measure system performance outside of the parameters of normal working conditions. The 							   	  	            goal of stress testing is to measure the software stability.
+4. Regression Testing					4. Scalability Testing :Scalability testing is used to determine if software is effectively handling increasing workloads.
+
+**Regression Testing:when you test part of software to make sure that new upadtes haven't introduced bugs
+**smoke testing:smoke test is a software testing process that determines whether the developed software build is stable r not.
+**unit Testing:in which we are working on sub-modules
+**Regression Testing:in which we are working on main modules
+2.When should you stop the testing proces?
+When to Stop Testing?
+Testing Deadlines.
+Completion of test case execution.
+Completion of functional and code coverage to a certain point.
+Bug rate falls below a certain level and no high-priority bugs are identified.
+Management decision.
+
+
+
+
+
