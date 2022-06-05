@@ -23,8 +23,8 @@ Examples:							Examples:
 **smoke testing:smoke test is a software testing process that determines whether the developed software build is stable r not.
 **unit Testing:in which we are working on sub-modules
 **Regression Testing:in which we are working on main modules
+
 2.When should you stop the testing proces?
-When to Stop Testing?
 Testing Deadlines.
 Completion of test case execution.
 Completion of functional and code coverage to a certain point.
